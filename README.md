@@ -1,15 +1,13 @@
 ## 《Python数据分析与数据化运营》读书笔记
-#### 1. 运行环境
+#### 运行环境
 操作系统：MacOS 10.12.6
 
 Python版本：python 3.6
 
 开发工具：Anaconda 1.8.7+ Jupyter 5.6
 
-#### 2.书籍相关
-书籍作者博客：http://www.dataivy.cn/
 
-#### 3.MIT License
+#### MIT License
 Copyright (c) 2018 David.liu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
