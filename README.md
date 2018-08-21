@@ -7,7 +7,7 @@ Python版本：python 3.6
 开发工具：Anaconda 1.8.7+ Jupyter 5.6
 
 #### 2.书籍相关
-作者博客：http://www.dataivy.cn/
+书籍作者博客：http://www.dataivy.cn/
 
 #### 3.MIT License
 Copyright (c) 2018 David.liu
